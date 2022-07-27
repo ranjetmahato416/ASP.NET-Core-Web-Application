@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\bin\Debug\net6.0\School.System.Repository.deps.json
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\bin\Debug\net6.0\School.System.Repository.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\bin\Debug\net6.0\School.System.Repository.pdb
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\bin\Debug\net6.0\School.System.Data.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\bin\Debug\net6.0\School.System.Model.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\bin\Debug\net6.0\School.System.Data.pdb
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\bin\Debug\net6.0\School.System.Model.pdb
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\School.System.Repository.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\School.System.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\School.System.Repository.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\School.System.Repository.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\School.System.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\School.System.Repository.csproj.CopyComplete
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\School.System.Repository.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\refint\School.System.Repository.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\School.System.Repository.pdb
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Repository\obj\Debug\net6.0\ref\School.System.Repository.dll

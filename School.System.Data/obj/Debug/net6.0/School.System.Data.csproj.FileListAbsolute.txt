@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\bin\Debug\net6.0\School.System.Data.deps.json
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\bin\Debug\net6.0\School.System.Data.runtimeconfig.json
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\bin\Debug\net6.0\School.System.Data.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\bin\Debug\net6.0\School.System.Data.pdb
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\bin\Debug\net6.0\School.System.Model.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\bin\Debug\net6.0\School.System.Model.pdb
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\School.System.Data.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\School.System.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\School.System.Data.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\School.System.Data.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\School.System.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\School.System.Data.csproj.CopyComplete
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\School.System.Data.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\refint\School.System.Data.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\School.System.Data.pdb
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\School.System.Data.genruntimeconfig.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\NCC Labs\School.System\School.System.Data\obj\Debug\net6.0\ref\School.System.Data.dll
